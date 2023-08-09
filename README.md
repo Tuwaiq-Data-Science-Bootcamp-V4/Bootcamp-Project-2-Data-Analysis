@@ -6,19 +6,19 @@
 
 - Choose a public dataset that needs to clean and preprocess.
 - EDA
-    - Apply the essential EDA steps: head, shape, info, describe, missing values
+    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
     - Apply the additional EDA steps based on your dataset needs.
 - Data Visualization
     - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
     - Draw a subplot using the previous charts.
-    - Apply chart format include:
+    - Apply chart format including:
         - Choose a specific style for your charts.
         - Apply one color palette from your choice on all charts.
-        - Use title, x and y labels, font size, figure size, legends
+        - Use title, x and y labels, font size, figure size, and legends.
 - Use pandas profiling.
 - Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
+    - Team members and their responsibilities.
+    - Introduction (problem, objectives).
     - Dataset Overview and Source.
     - Describe the final ten insights.
 
