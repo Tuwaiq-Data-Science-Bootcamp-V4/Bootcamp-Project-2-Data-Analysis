@@ -10,7 +10,7 @@ For this project, we will exclusively focus on the dataset pertaining to YouTube
 
 1. Rayan Aloufi: Choosing the dataset and building the charts and WordCloud.
 2. Khalid Alhumaidan: EDA and Data cleaning.
-3. Hussam: (Responsibilities)
+3. Hussam Al-Zhranai: Building the charts and making Pandas Profiling report and README.md file.
 
 ## Dataset Overview and Source 📈
 
