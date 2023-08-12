@@ -144,7 +144,7 @@ A WordCloud was generated from the unique video titles to visualize the most com
 
 ## Pandas Profiling 📋
 
-Additionally, a [Pandas Profiling](chart/output.html) report was generated to provide a comprehensive overview of the dataset.
+Additionally, a [Pandas Profiling](Dataset-Pandas-Summary.html) report was generated to provide a comprehensive overview of the dataset.
 
 
 
