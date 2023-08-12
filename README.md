@@ -87,7 +87,7 @@ https://data.world/industryresearch/data-engineer-survey-2021
 ### 10)
 ### Graduated or post-graduated people often get request that are not possible to do in the time requested and not possible given the desired function and features requested.
 
-<img src="pic10.png">
+<img src="pic/10.png">
 
 ### 11)
 ### from 3 states most of the revenue is between 100 to 500 million$.
