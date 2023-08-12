@@ -7,7 +7,7 @@
 A system to provide an overview of all smart with accurte details for each phone, our dataset offers a thorough compilation of data on all the most recent cellphones that are currently on the market.
 
 
-We **aim** to provide a clear vision about latest smartphones and their specifications, and ti give the users the ability to overview about all the smartphonr in the market.
+We **aim** to provide a clear vision about latest smartphones and their specifications, and ti give the users the ability to overview about all the smartphone in the market.
 
 ### Dataset Overview
 This dataset contain numbers of smart phones available in markets, each entry includes essential attributes such as smartphone model, brand, operating system, display size, processor, RAM, internal storage, camera details, battery capacity, connectivity options, additional features, and market price.
@@ -47,18 +47,50 @@ This dataset contain numbers of smart phones available in markets, each entry in
     ```
 
 
-### Final ten insights
+### Final 10 insights
 **The answers to our 10 queries were our insights**, so the 10 queries is :
 1. How common are 5G-enabled phones compared to others phones?
-2. Which five brands are the priciest compared to five least expensive brands ?
+
+     Most of the smartphone have 5G feature .
+
+3. Which five brands are the priciest compared to five least expensive brands ?
+
+     Vertu is the most expensive brand, and lyf is the least expensive brand.
+
 3. What is the average price for the highest capacity batteries?
-4. Which operating system for each brandes used?
+
+     In the least battery capacity the price was higher then dropped until tha battery’s capacity was more than 20000.
+
+4. which operating system for each brandes used?
+
+     Most of the smartphones brands use Android OS except Apple.
+
 5. How many smartphones have one of these capabilities or the ability to fast charge when 5G is available?
-6. How does the relationship between a smartphones price and its battery_capacity differ between Apple and Samsung?
+
+
+     The majority of the smartphones provide 5G and faster charging features.
+
+
+6. How does the relationship between a smartphones price and its battery capacity differ between Apple and Samsung?
+
+     higher battery capacity tend to have lower prices.
+
 7. How does the processor speed of smartphones relate to their prices?
+
+     As the processor speed increases, the price generally increases.
+
 8. How the distribution of screen sizes change in different smartphone brand?
+
+     Many brands offer smartphones with screens of varying sizes.
+
 9. What is the average rating of brands?
+
+     Brands with higher bars have higher average ratings.
+
 10. What is the highest battery capacity by brands?
+
+     Brands with higher bars have higher maximum battery capacities, indicating the brands that provide smartphones with      larger batteries.
+
 
 
 
