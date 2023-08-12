@@ -1,31 +1,28 @@
-# Data Preprocessing and Analysis
+# Data Science Job Posting Analysis
 
-**Based on what you’ve learned until now, use NumPy, pandas, matplotlib and seaborn to create a project of your choosing.**
+## Team Members and Responsibilities
+- Abdullah Alowayyid: EDA (Exploratory Data Analysis)
+- Arwa Alnamlan: Data Visualization
+- Linah Alqahtani: Data Visualization
 
-**This project must at least satisfy the following minimum requirements:**
+## Introduction
+This project aims to analyze and derive insights from a dataset of Data Science job postings sourced from Glassdoor. It seeks to uncover trends, patterns, and valuable insights to assist both job seekers and employers.
 
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-    - Draw a subplot using the previous charts.
-    - Apply chart format including:
-        - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use title, x and y labels, font size, figure size, and legends.
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members and their responsibilities.
-    - Introduction (problem, objectives).
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
+## Dataset Overview and Source
+The dataset used for this analysis consists of Data Science job postings from Glassdoor. It includes essential details like job titles, salary estimates, company information, and more. The dataset was obtained through web scraping from Glassdoor's website.
 
+Dataset Source: [Data Science Job Posting on Glassdoor](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv)
 
-- **The Final presentation will be on Sunday (10 min for each group).**
-- **Due Date: Sat, 12 Aug, 11:00 pm**
-## Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
+## Final Insights
+1. Most DS salaries range between 90k to 180k.
+2. The largest number of DS jobs are in the following sectors :IT , Business Services, and Biotech & Pharmaceuticals. 
+3. Companies with fewer employees get a better job rating than companies with a large number of employees. 
+4. IT , Business Services, Biotech & Pharmaceuticals, and Aerospace & Defense sectors offer the highest salary rates for DS Jobs.
+5. The most important 3 skills fo DS Jobs are : Python , SQL and ML .
+6. Most DS Jobs fall under 3.5-4.5 Rating.
+7. Most DS Jobs Located in San Francisco, CA  and  New York, NY.
+8. Data Scientist and Data Engineer is the highest rated jobs.
+9. Most of the jobs of data scientists are in companies founded between 1980 and 2000.
+10. Data Scientist is the highest paid  jobs.
+
+These insights provide valuable information for both job seekers and companies looking to navigate the dynamic Data Science job market.
