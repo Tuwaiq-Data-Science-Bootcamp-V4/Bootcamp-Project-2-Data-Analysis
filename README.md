@@ -6,10 +6,10 @@
 extracting insights based on EDA | extracting insights based on EDA | extracting insights based on EDA 
 # introduction
 
-We Found an interseting to us sense we are in DS bootcamp, it an online survey of 600 Data Engineers or related titles, 100 of which were Manager-Level Employees, so we desided to analyze this survay it might conatain some intersting informaiton.
+We Found an interesting to us since we are in DS bootcamp, it is an online survey of 600 Data Engineers or related titles, 100 of which were Manager-Level Employees, so we decided to analyze this survey because it might contain some interesting information.
 
 ### **Problems**
-- Colums title hard to understand, we had another sheet to discribe the colums.
+- Colum's title was hard to understand, we had another sheet to describe the colums.
 - Integers values are 5% of all values.
 - Values contain a lot of symbols.
 - Same Answers for a Question found in different columns, due to multiple choice questions.
