@@ -1,0 +1,32 @@
+Metric Label,Question Text
+GENDER,What is your gender please?
+AGE,What is your age?
+EMPLOYMENT,What is your employment status? 
+STATE,What state do you work in currently?
+REGION,What is the highest level of formal education you have completed?
+EDUCATION,Which of the following describes the department in which you work at your company?
+QA_M1-M10,"At your current company, which of the following do you perform as part of your day-to-day job? Please select all that apply. "
+QB,Which of the following best describes your current title?
+QC,Do you currently work in a management-level position?   
+QD,"To what extent, if at all, has your company implemented DataOps into its processes?           "
+Q1,Which of the following best describes the reliability of the data and analytics and products your team produces? 
+Q2,How often do you get data requests with unreasonable expectations?       
+Q3,What percent of the time do you receive requests in your job that are simply not possible to do in the time requested? Please give your answer as a percent. Your best guess is fine.
+Q4,What percent of the time do you receive requests in your job that are simply not possible given the desired function and features of the request? Please give your answer as a percent. Your best guess is fine. 
+Q5_M1-M6,"Which of the following, if any, have ever contributed to you feeling burnt out in your day-to-day job? Please select all that apply. "
+Q6,How strongly do you agree or disagree with the following statement?- I wish my job came with a therapist to help me manage the stress from my job.      
+Q7,"How often, if ever, does the data engineering team at your company receive the blame when things go wrong with the company’s data and analytics?     "
+Q8,"How often, if ever, is your work-life balance disrupted due to additional unplanned work?      "
+Q9,How likely are you to leave your current company for another data engineering job in the next 12 months?
+Q10,"Have you ever, even once, considered leaving your career path as a data engineer because of the stress associated with building your company’s data infrastructure?      "
+Q11,How difficult does your company's data governance policies make your day-to-day job?       
+Q12,To what extent are you currently able to effectively collaborate with different groups within your organization in the process of managing data and building data models?     
+Q13,How important is it for your company to incorporate DataOps in order to successfully manage its data processes? 
+Q14_M1-M9,Which of the following are obstacles in your company’s culture to fully implementing DataOps into your company’s data processes? Please select all that apply.
+Q15,"How strongly do you agree or disagree with the following statement? - Cutting edge tools for managing data and building analytics are ineffective without processes that deploy, monitor and manage analytics throughout the lifecycle.     "
+QE,For how many years have you worked in data engineering? Your best guess is fine. 
+QF,For how many years have you been at your current company? Your best guess is fine. 
+QG,For how many years has your current company been in business? Your best guess is fine. 
+QH,How many employees does your company have? Please include all branches and locations if applicable. Your best guess is fine.
+QI,Which of the following categories includes your company’s annual revenue? 
+QJ,Which of the following best describes the industry in which your company operates?
