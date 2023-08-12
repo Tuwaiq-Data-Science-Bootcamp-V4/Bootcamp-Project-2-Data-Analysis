@@ -4,9 +4,11 @@
 
 This project aims to analyze YouTube trending videos data to gain insights into video popularity, viewer engagement, and other key aspects. The project utilizes the dataset available on [Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new) containing information about various attributes of YouTube videos.
 
+For this project, we will exclusively focus on the dataset pertaining to YouTube trending videos in the United States.
+
 ## Team Members 👥
 
-1. Rayan Aloufi: (Responsibilities)
+1. Rayan Aloufi: Choosing the dataset and building the charts and WordCloud.
 2. Khalid Alhumaidan: EDA and Data cleaning.
 3. Hussam: (Responsibilities)
 
@@ -86,5 +88,9 @@ A WordCloud was generated from the unique video titles to visualize the most com
 ## Pandas Profiling 📋
 
 Additionally, a [Pandas Profiling](chart/output.html) report was generated to provide a comprehensive overview of the dataset.
+
+
+
+
 
 For detailed code and explanations, please refer to the Python code provided in this repository.
