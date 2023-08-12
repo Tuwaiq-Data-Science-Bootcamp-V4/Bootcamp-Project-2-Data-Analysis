@@ -36,21 +36,51 @@ The analysis includes various charts to visualize trends and relationships withi
    
 ![Views per category](chart/Bar_avgVpC.png)
 
+### Some insights from (Average views per category):
+- Music is the highest viewed category in Youtube.
+- Lowest viewed category is News & Politics.
+- Education videos are well distributed in terms of views.
+- Nonprofits & Activisim videos have bad distribution, and maybe contains outliers.
+---
+
 ### 2. Days it took for a video to be trending 📊
 
 ![Days it took for a video to be trending](chart/Hist_dft.png)
+
+### Some insights from (Days it took to be trending):
+- It is left distributed.
+- it means that most videos take from 1 to 10 days to be trending.
+- There are videos that took 40 days and more to be trending.
+---
 
 ### 3. Likes vs. Dislikes Scatter Plot 📈
 
 ![Likes vs Dislikes](chart/Scatter_LvsD.png)
 
+### Some insights from (Likes vs Dislikes):
+- Likes and Dislikes are not that correlated.
+- Some videos contain very high number of dislikes, and low likes, maybe they are offensive?
+---
+
 ### 4. Number of Videos per Category 📊
 
 ![Number of Videos per Category](chart/Count_numOfVids.png)
 
+### Some insights from (Number of videos per category):
+- Entertainment has the highest number of videos.
+- Shows and Nonprofit & Activisim has the lowest.
+- Music is not the highest count but it has the highest average views, it is understandable since people listen to music repeatedly.
+---
+
 ### 5. Pair Plot of Numerical Columns 📊
 
 ![Pair Plot of Numerical Columns](chart/PairPlot.png)
+
+### Some insights from (Pair plot):
+- Views are correlated with likes, dislikes, comment count.
+- All of them are left distributed.
+- There are huge number of outlires, and non-normal values.
+---
 
 ### 6. Average Likes for Videos with and without Disabled Comments 📊
 
@@ -60,25 +90,52 @@ The analysis includes various charts to visualize trends and relationships withi
 
 ![Disabled Comments](chart/Bar_DislikesCD.png)
 
+### Some insights from (Average likes and dislikes with comments disabled, 6 and 7):
+- When the comments are disabled average percentage of dislikes are usually higher than likes.
+- The average distribution is the same on True or False.
+---
+
 ### 8. Distribution of Videos by Category (Pie Chart) 📊
 
 ![Pie](chart/Pie.png)
+
+### Some insights from (disribution of videos per category):
+- Entertainment has 24.4% of the total videos in the data set.
+- Autos & Vehicles has 0.9%
+---
 
 ### 9. Correlation Matrix (Heatmap) 📊
 
 ![Heatmap](chart/Heatmap.png)
 
+### Some insights from (Correlation Heatmap):
+- Like is highly correlated with views and comment count.
+- Dislikes are not really correlated with views and likes, but, it is correlated with comment count.
+- This is normal, since the video has high number of comments people will be divided into haters or supporters.
+---
+
 ### 10. Trends in Views over Time (Line Chart) 📈
 
 ![Trends](chart/TrendViews_Line.png)
+
+### Some insights from (the average views for each trending date):
+- In 2018-05 there is a spike in the views count.
+- In 2018-01 and 2018-02 the views count is down.
+---
 
 ### 11. Trends in Likes and Dislikes over Time (Line Chart) 📈
 
 ![](chart/TrendLD_Line.png)
 
+### Some insights from (the average likes and dislikes for each trending date):
+- In 2018-05 there is a spike in likes and dislikes count.
+- In 2018-02 both the likes and dislikes count is down.
+---
+
 ## WordCloud of Video Titles (Extra) 💬
 
 A WordCloud was generated from the unique video titles to visualize the most common words used in video titles.
+
 ![Word Cloud](chart/download.png)
 
 ## Subplot of all the charts
