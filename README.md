@@ -7,7 +7,7 @@ This project aims to analyze YouTube trending videos data to gain insights into 
 ## Team Members 👥
 
 1. Rayan Aloufi: (Responsibilities)
-2. Khalid: (Responsibilities)
+2. Khalid Alhumaidan: EDA and Data cleaning.
 3. Hussam: (Responsibilities)
 
 ## Dataset Overview and Source 📈
