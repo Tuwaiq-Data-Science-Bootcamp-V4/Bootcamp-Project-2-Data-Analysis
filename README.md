@@ -21,7 +21,7 @@ We Found an interesting to us since we are in DS bootcamp, it is an online surve
 - using the right drawing to visualize the data.
 
 
-# **Datase Overview**
+# **Dataset Overview**
 #### **Data Summary**
 Results of any sample are subject to sampling variation. The magnitude of the variation is measurable and is affected by the number of interviews and the level of the percentages expressing the results. For the interviews conducted in this particular study, the chances are <mark>95 in 100</mark> that a survey result does not vary, plus or minus, by more than <mark>4.0 percentage</mark> points from the result that would be obtained if interviews had been conducted with all persons in the universe represented by the sample.
 
