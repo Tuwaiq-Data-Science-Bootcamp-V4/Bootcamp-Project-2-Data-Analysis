@@ -15,7 +15,7 @@ We Found an interesting to us since we are in DS bootcamp, it is an online surve
 - Same Answers for a Question found in different columns, due to multiple choice questions.
 
 ### **Objectives**
-- Removing all symbols from symbols.
+- Removing all symbols from values.
 - Using loops for multiple choice questions and turn them to boolean columns.
 - Changing question that have a rate to integer so we can find a correlations.
 - using the right drawing to visualize the data.
